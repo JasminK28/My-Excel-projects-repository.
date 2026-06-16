@@ -27,7 +27,9 @@ Used a variety of Excel functions to manipulate and analyse data:
 - `DATE`, `MONTH`, `YEAR` – Extract and manage date-based data  
 - `UNIQUE` – Identify distinct values within datasets  
 - `VLOOKUP` – Retrieve matching data across tables  
-- `SWITCH` – Simplify conditional logic and categorisation  
+- `SWITCH` – Simplify conditional logic and categorisation
+- 
+<img width="682" height="327" alt="image" src="https://github.com/user-attachments/assets/36d41902-ed0d-4df5-8096-01df2a801665" />
 
 ---
 
@@ -36,13 +38,15 @@ Used a variety of Excel functions to manipulate and analyse data:
 https://upload.wikimedia.org/wikipedia/commons/3/36/Data_filtering_example.png
 
 - **Filtering** to isolate specific data segments (e.g., product categories, date ranges)  
-- **Sorting** to organise data by key variables such as sales volume, revenue, or time  
+- **Sorting** to organise data by key variables such as sales volume, revenue, or time
+- 
 
 ---
 
 ### 📊 Data Analysis  
 
-https://upload.wikimedia.org/wikipedia/commons/1/1d/Pivot_table_example.png
+<img width="611" height="260" alt="image" src="https://github.com/user-attachments/assets/611930a5-8dc6-4dc6-8b5b-a963583e3610" />
+
 
 - Created **PivotTables** to summarise large datasets and uncover patterns  
 - Grouped data by time periods (monthly, yearly) for trend analysis  
@@ -57,7 +61,13 @@ https://upload.wikimedia.org/wikipedia/commons/9/91/Charts_excel_example.png
 Developed charts to communicate insights effectively:  
 - Bar charts for category comparisons  
 - Line charts for sales trends over time  
-- Pie charts for distribution analysis  
+- Pie charts for distribution analysis
+
+-   
+<img width="812" height="412" alt="image" src="https://github.com/user-attachments/assets/c72f77df-c372-431f-9f53-224ad6477890" />
+<img width="817" height="378" alt="image" src="https://github.com/user-attachments/assets/9128275b-6a5d-45a7-a539-786d5686a975" />
+<img width="822" height="441" alt="image" src="https://github.com/user-attachments/assets/936fc24a-092d-40e0-8052-4f455b42bdec" />
+
 
 ---
 
