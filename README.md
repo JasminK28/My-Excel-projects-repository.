@@ -3,6 +3,8 @@
 ## 📁 Overview  
 This project was completed as part of a **Data Technician Bootcamp**, focusing on applying core Excel skills to analyse retail and sales data. The goal was to clean, explore, and generate insights from structured datasets using a range of Excel functions, tools, and visualisation techniques.  
 
+https://upload.wikimedia.org/wikipedia/commons/7/73/Excel_screenshot.png
+
 ---
 
 ## 🎯 Objectives  
@@ -16,6 +18,9 @@ This project was completed as part of a **Data Technician Bootcamp**, focusing o
 ## 🛠️ Skills & Techniques  
 
 ### 📌 Formulas & Functions  
+
+https://upload.wikimedia.org/wikipedia/commons/5/5a/Excel_Formula_Example.png
+
 Used a variety of Excel functions to manipulate and analyse data:  
 - `SUM`, `SUMIF` – Aggregate totals and conditional sums  
 - `AVERAGE`, `AVERAGEIF` – Calculate averages with conditions  
@@ -27,12 +32,18 @@ Used a variety of Excel functions to manipulate and analyse data:
 ---
 
 ### 🔍 Data Handling  
+
+https://upload.wikimedia.org/wikipedia/commons/3/36/Data_filtering_example.png
+
 - **Filtering** to isolate specific data segments (e.g., product categories, date ranges)  
 - **Sorting** to organise data by key variables such as sales volume, revenue, or time  
 
 ---
 
 ### 📊 Data Analysis  
+
+https://upload.wikimedia.org/wikipedia/commons/1/1d/Pivot_table_example.png
+
 - Created **PivotTables** to summarise large datasets and uncover patterns  
 - Grouped data by time periods (monthly, yearly) for trend analysis  
 - Compared product and regional performance  
@@ -40,6 +51,9 @@ Used a variety of Excel functions to manipulate and analyse data:
 ---
 
 ### 📈 Data Visualisation  
+
+https://upload.wikimedia.org/wikipedia/commons/9/91/Charts_excel_example.png
+
 Developed charts to communicate insights effectively:  
 - Bar charts for category comparisons  
 - Line charts for sales trends over time  
@@ -48,6 +62,9 @@ Developed charts to communicate insights effectively:
 ---
 
 ## 📊 Key Insights (Example)  
+
+https://upload.wikimedia.org/wikipedia/commons/8/84/Business_data_analysis_graph.png
+
 - Identified top-performing products and sales periods  
 - Analysed seasonal trends using date functions  
 - Compared regional sales performance  
@@ -65,6 +82,7 @@ Developed charts to communicate insights effectively:
 ---
 
 ## ✅ Outcome  
+
 This project strengthened my ability to:  
 - Work with real-world datasets  
 - Apply Excel functions effectively for analysis  
@@ -74,5 +92,4 @@ This project strengthened my ability to:
 ---
 
 ## 📎 Author  
-**Jasmin Kadir**  
-
+**Jasmin Kadir**
